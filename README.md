@@ -8,6 +8,15 @@ Rhea is a reverse-proxy written in Node.js using the NestJS framework.
 - [Usage](#usage)
 - [Scripts](#scripts)
 
+## Next Steps
+
+- [x] Proof of work
+- [ ] Make server URLs configurable
+- [ ] Implement load balancing for each server
+- [ ] Add authentication and authorization
+- [ ] Improve logging and monitoring
+- [ ] Write additional unit and integration tests
+
 ## Installation
 
 To install the dependencies, run:
